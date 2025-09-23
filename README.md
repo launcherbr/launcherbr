@@ -1,2 +1,2 @@
-# launcher
+# Launcher & Co.
 Compilando ideias
