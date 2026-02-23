@@ -22,8 +22,6 @@ Nossos repositórios e projetos orbitam em torno das seguintes áreas de atuaç�
 
 ## 🌟 Repositórios em Destaque
 
-*(Sugestão de repositórios para você fixar no perfil)*
-
 * **`automation-core`**: Coleção de fluxos e webhooks do n8n para gestão de atendimento e processos de negócio.
 * **`typebot-flows`**: Templates e integrações de fluxos conversacionais para qualificação e suporte.
 * **`api-gateway-evolution`**: Wrappers e integrações para comunicação e mensageria.
