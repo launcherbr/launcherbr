@@ -31,9 +31,9 @@ Nossos repositórios e projetos orbitam em torno das seguintes áreas de atuaç�
 
 📫 **Conecte-se conosco:**
 
-* **Domínio Principal:** [https://launcher.com.br]
-* **Hub de APIs:** [api.launcher.com.br]
-* **E-mail para contato:** [launcher@launcher.com.br]
+* **Domínio Principal:** https://launcher.com.br
+* **Hub de APIs:** api.launcher.com.br
+* **E-mail para contato:** launcher@launcher.com.br
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=launcherbr&color=blue&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
