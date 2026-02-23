@@ -32,7 +32,7 @@ Nossos repositórios e projetos orbitam em torno das seguintes áreas de atuaç�
 📫 **Conecte-se conosco:**
 
 * **Domínio Principal:** https://launcher.com.br
-* **Hub de APIs:** https://chatwoot.hubapp.pro
+* **Hub de APIs:** https://launcher.hubapp.pro
 * **E-mail para contato:** launcher@launcher.com.br
 
 <p align="center">
