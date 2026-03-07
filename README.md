@@ -22,10 +22,10 @@ Nossos repositórios e projetos orbitam em torno das seguintes áreas de atuaç�
 
 ## 🌟 Repositórios em Destaque
 
-* **`automation-core`**: Coleção de fluxos e webhooks do n8n para gestão de atendimento e processos de negócio.
-* **`typebot-flows`**: Templates e integrações de fluxos conversacionais para qualificação e suporte.
-* **`api-gateway-evolution`**: Wrappers e integrações para comunicação e mensageria.
-* **`licensing-service`**: Módulos e estrutura base para gestão de licenças de produtos digitais.
+* **`cloudflare-whmcs`**: WHMCS Cloudflare Cache Purge - Módulo para limpeza de cache direto do painel.
+* **`hubapp_notifica_autologin`**: HubApp Suite: Notifica & AutoLogin WHMCS.
+* **`asaas-whmcs`**: Módulo de Pagamento Asaas V3 para WHMCS.
+* **`infinitepay-whmcs`**: Módulo de Pagamento InfinitePay API para WHMCS.
 
 ---
 
