@@ -1,6 +1,6 @@
-# 🚀 Launcher & Co.
+# 🚀 Launcher Tech.
 
-Bem-vindo ao GitHub da **Launcher & Co.**! Somos focados em arquitetar soluções robustas de automação, desenvolvimento web e integrações de ponta a ponta para otimizar operações e escalar negócios.
+Bem-vindo ao GitHub da **Launcher Tech**! Somos focados em arquitetar soluções robustas de automação, desenvolvimento web e integrações de ponta a ponta para otimizar operações e escalar negócios.
 
 ## 💻 Nossa Stack Tecnológica
 
@@ -33,7 +33,7 @@ Nossos repositórios e projetos orbitam em torno das seguintes áreas de atuaç�
 
 * **Domínio Principal:** https://launcher.com.br
 * **Hub de APIs:** https://launcher.hubapp.pro
-* **E-mail para contato:** launcher@launcher.com.br
+* **E-mail para contato:** contato@launcher.com.br
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=launcherbr&color=blue&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
