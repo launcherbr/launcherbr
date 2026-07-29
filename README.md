@@ -1,4 +1,4 @@
-# 🚀 Launcher Tech.
+# 🚀 Launcher Tech
 
 Bem-vindo ao GitHub da **Launcher Tech**! Somos focados em arquitetar soluções robustas de automação, desenvolvimento web e integrações de ponta a ponta para otimizar operações e escalar negócios.
 
